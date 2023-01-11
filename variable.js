@@ -8,3 +8,6 @@ var age = 22
 var age = 19
 var age = 27
 
+canDrink = true
+canDrink = false
+canDrink = true
