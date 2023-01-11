@@ -1,22 +1,14 @@
 
 
 var firstName = "Denzel"
+var birhtday = "0/26/2000"
+var username = "mokesnipes13"
+
 var age = 22
-canDrink = true
-console.log(firstName)
-console.log(age)
-console.log(canDrink)
+var totalPaid = 314
+var remainingBalance = 500
 
-var firstName = "Timothy"
-var age = 19
-canDrink = false
-console.log(firstName)
-console.log(age)
-console.log(canDrink)
+var depositPaid = true
+var emptyBalance = false
+var canRent = false
 
-var firstName = "Eldridge"
- var age = 27
-canDrink = true
-console.log(firstName)
-console.log(age)
-console.log(canDrink)
