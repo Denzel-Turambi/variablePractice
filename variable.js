@@ -1,18 +1,4 @@
-"Denzel"
-"Timothy"
-"Eldridge"
 
-22
-19
-27
-
-true
-false
-true
-
-firstName
-age
-canDrink
 
 var firstName = "Denzel"
 var firstName = "Timothy"
